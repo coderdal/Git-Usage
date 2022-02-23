@@ -24,5 +24,12 @@ Whether you choose to use the terminal or a GUI, you will need to understand the
 
 #
 
+### Git Repositories
+A Git repository (or repo for short) contains all of the project files and the entire revision history. You’ll take an ordinary folder of files (such as a website’s root folder), and tell Git to make it a repository. This creates a .git subfolder, which contains all of the Git metadata for tracking changes.
+
+On Unix-based operating systems such as macOS, files and folders that start with a period (.) are hidden, so you will not see the .git folder in the macOS Finder unless you show hidden files, but it’s there! You might be able to see it in some code editors.
+
+#
+
 #### How to install & use
 Go to the next lesson for setup and other steps.
