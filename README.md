@@ -1,5 +1,7 @@
 ## Git Usage
 
+What is Git and how to use?
+
 | Lesson             | Link                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 | 00 : Basic - What is the Git ? | https://github.com/coderdal/Git-Usage/tree/main/00-Basic |
