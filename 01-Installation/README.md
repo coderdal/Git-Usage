@@ -17,3 +17,5 @@
 2 - *Select your version and Click on the download button.* \
 3 - *Launch the installer you downloaded.* \
 4 - *Finish the installation.*
+
+Next Lesson : https://github.com/coderdal/Git-Usage/tree/main/02-Get_Started

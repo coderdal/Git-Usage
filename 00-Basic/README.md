@@ -33,3 +33,5 @@ On Unix-based operating systems such as macOS, files and folders that start with
 
 #### How to install & use
 Go to the next lesson for setup and other steps.
+
+Next Lesson : https://github.com/coderdal/Git-Usage/tree/main/01-Installation
