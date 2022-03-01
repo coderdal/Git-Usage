@@ -7,7 +7,7 @@ Lessons:
 | Lesson             | Link                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 | 00 : Basic - What is the Git ? | https://github.com/coderdal/Git-Usage/tree/main/00-Basic#general-information |
-| 01 : Git Installation - Windows / Mac | https://github.com/coderdal/Git-Usage/tree/main/01-Installation|
-| 02 : Get Started | https://github.com/coderdal/Git-Usage/tree/main/02-Get_Started|
-| 03 : Create - Initialize | https://github.com/coderdal/Git-Usage/tree/main/03-Create-Initialize|
-| 04 : Adding New Files | https://github.com/coderdal/Git-Usage/tree/main/04-New-Files|
+| 01 : Git Installation - Windows / Mac | https://github.com/coderdal/Git-Usage/tree/main/01-Installation#git-installation|
+| 02 : Get Started | https://github.com/coderdal/Git-Usage/tree/main/02-Get_Started#get-started|
+| 03 : Create - Initialize | https://github.com/coderdal/Git-Usage/blob/main/03-Create-Initialize/README.md#git-usage|
+| 04 : Adding New Files | https://github.com/coderdal/Git-Usage/tree/main/04-New-Files#git-adding-new-files|
