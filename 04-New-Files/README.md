@@ -28,3 +28,5 @@ Files in your Git repository folder can be in one of 2 states:
 When you first add files to an empty repository, they are all untracked. To get Git to track them, you need to stage them, or add them to the staging environment.
 
 I will cover the staging environment in the next chapter.
+
+Next Lesson : https://github.com/coderdal/Git-Usage/tree/main/05-Staging-Environment#git-staging-environment
