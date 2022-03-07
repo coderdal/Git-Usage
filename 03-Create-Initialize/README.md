@@ -24,3 +24,5 @@ You just created your first Git Repository!
 **Note:** Git now knows that it should watch the folder you initiated it on.
 
 Git creates a hidden folder to keep track of changes.
+
+Next Lesson : https://github.com/coderdal/Git-Usage/tree/main/04-New-Files#git-adding-new-files
