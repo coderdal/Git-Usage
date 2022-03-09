@@ -39,3 +39,5 @@ Let's check status again:
 Now all 3 files are added to the Staging Environment, and we are ready to do our first `commit`.
 
 **Note:** The shorthand command for `git add --all` is `git add -A`
+
+Next Lesson : https://github.com/coderdal/Git-Usage/tree/main/06-Git-Commit#git-commit
