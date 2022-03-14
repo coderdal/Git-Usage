@@ -45,3 +45,5 @@ We see the file we expected is modified. So let's commit it directly:
 **Warning:** Skipping the Staging Environment is not generally recommended.
 
 Skipping the stage step can sometimes make you include unwanted changes.
+
+Next Lesson : https://github.com/coderdal/Git-Usage/tree/main/07-Git-Help#git-help
