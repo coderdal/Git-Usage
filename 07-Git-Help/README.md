@@ -30,3 +30,5 @@ Ex:
 **Warning:** This will display a very long list of commands
 
 **Note:** If you find yourself stuck in the list view, `SHIFT + G` to jump the end of the list, then `q` to exit the view.
+
+Next Lesson : https://github.com/coderdal/Git-Usage/tree/main/08-Git-Branch#git-branch

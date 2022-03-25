@@ -14,3 +14,4 @@ Lessons:
 | 05 : Staging Environment | https://github.com/coderdal/Git-Usage/tree/main/05-Staging-Environment#git-staging-environment|
 | 06 : Git Commit | https://github.com/coderdal/Git-Usage/tree/main/06-Git-Commit#git-commit|
 | 07 : Git Help | https://github.com/coderdal/Git-Usage/tree/main/07-Git-Help#git-help|
+| 08 : Git Branch | https://github.com/coderdal/Git-Usage/tree/main/08-Git-Branch#git-branch|
