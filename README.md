@@ -15,3 +15,4 @@ Lessons:
 | 06 : Git Commit | https://github.com/coderdal/Git-Usage/tree/main/06-Git-Commit#git-commit|
 | 07 : Git Help | https://github.com/coderdal/Git-Usage/tree/main/07-Git-Help#git-help|
 | 08 : Git Branch | https://github.com/coderdal/Git-Usage/tree/main/08-Git-Branch#git-branch|
+| 09 : Git Branch Merge | https://github.com/coderdal/Git-Usage/tree/main/09-Git-Branch-Merge#git-branch-merge|
