@@ -53,3 +53,5 @@ And delete the hello-world-images branch:
     git branch -d hello-world-images
 
 Now you have a better understanding of how branches and merging works. Time to start working with a remote repository!
+
+Next Lesson : https://github.com/coderdal/Git-Usage/tree/main/10-Git-Ignore-.gitignore#git-ignore
