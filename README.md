@@ -17,3 +17,4 @@ Lessons:
 | 08 : Git Branch | https://github.com/coderdal/Git-Usage/tree/main/08-Git-Branch#git-branch|
 | 09 : Git Branch Merge | https://github.com/coderdal/Git-Usage/tree/main/09-Git-Branch-Merge#git-branch-merge|
 | 10 : Git Ignore - .gitignore | https://github.com/coderdal/Git-Usage/tree/main/10-Git-Ignore-.gitignore#git-ignore|
+| 11 : Git Security - SSH | https://github.com/coderdal/Git-Usage/tree/main/11-Git-Security-SSH#git-security-ssh|
