@@ -33,3 +33,5 @@ Now all `.log` files and anything in `temp` folders will be ignored by Git.
 **Note**: In this case, we use a single `.gitignore` which applies to the entire repository.
 
 It is also possible to have additional `.gitignore` files in subdirectories. These only apply to files or folders within that directory.
+
+Next Lesson : https://github.com/coderdal/Git-Usage/tree/main/11-Git-Security-SSH#git-security-ssh
