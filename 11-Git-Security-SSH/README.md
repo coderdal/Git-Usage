@@ -50,3 +50,5 @@ Now we add this SSH key pair to the SSH-Agent (using the file location from abov
 You will be prompted to supply the passphrase, if you added one.
 
 Now the SSH key pair is ready to use.
+
+Next Lesson : https://github.com/coderdal/Git-Usage/blob/main/12-Git-Amend/README.md#git-amend
