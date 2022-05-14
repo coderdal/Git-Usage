@@ -97,3 +97,5 @@ Now we have a new `branch`, that is different from the master `branch`.
 ###
 **Note:** Using the -b option on checkout will create a new branch, and move to it, if it does not exist.
 ###
+
+Next Lesson : https://github.com/coderdal/Git-Usage/tree/main/09-Git-Branch-Merge#git-branch-merge
